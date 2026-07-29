@@ -1,0 +1,6 @@
+# Release artifacts are uploaded to GitHub Releases, not committed here.
+*.apk
+*.exe
+*.zip
+bin/
+obj/
