@@ -8,7 +8,7 @@ Download the latest installers from the **[GitHub Releases](../../releases/lates
 
 | Platform | Package | Requirements |
 |---|---|---|
-| Android | `Free-TV-Android-v1.0.2.apk` | Android 8.0 or newer |
+| Android | `Free-TV-Android-v1.0.4.apk` | Android 8.0 or newer |
 | Windows | `Free-TV-PC-Windows-x64-v1.0.0.zip` | 64-bit Windows 10/11 and Microsoft Edge WebView2 Runtime |
 
 ## Android installation
@@ -30,10 +30,10 @@ The Windows build is self-contained, but it uses the Microsoft Edge WebView2 Run
 
 ## Release checksums
 
-### Android v1.0.2
+### Android v1.0.4
 
 ```text
-SHA-256: 443b163b5a137a605bec85c607a31e59c94482ddcee4bc86f86c2937d883e068
+SHA-256: c90285fa691517458f94ae411b26044848d1b9af61f22585274514ec52bc7eae
 ```
 
 ### Windows x64 v1.0.0
